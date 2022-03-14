@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Technology Stack
+#512BD4 #6DB33F
