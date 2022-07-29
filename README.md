@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Technology Stack
- <img src="https: //img.shields.io/badge/.NET-#512BD4?style=flat&logo=TypeScript&logoColor=white" />
+ <img src="https: //img.shields.io/badge/.NET-#512BD4?style=flat&logo=.NET&logoColor=white" />
