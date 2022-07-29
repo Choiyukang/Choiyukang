@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### Technology Stack
 <!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <!-- ASP.NET -->
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=ASP.NET&logoColor=white" />
+<img alt="ASP.NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=ASP.NET&logoColor=white" />
 <!-- HTML5 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img alt="HTML5" src="https: //img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
