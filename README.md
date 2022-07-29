@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <!-- ASP.NET -->
 <img alt="ASP.NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=ASP.NET&logoColor=white" />
 <!-- HTML5 -->
-<img alt="HTML5" src="https: //img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
